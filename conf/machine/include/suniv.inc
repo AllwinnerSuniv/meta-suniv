@@ -1,7 +1,7 @@
 SOC_FAMILY = "suniv"
 require conf/machine/include/soc-family.inc
 
-require conf/machine/include/tune-arm926ejs.inc
+require tune-arm926ejs.inc
 
 # Increase this everytime when you change some thing in the kernel
 MACHINE_KERNEL_REV = "r0"

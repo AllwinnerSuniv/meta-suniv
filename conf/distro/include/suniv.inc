@@ -8,7 +8,7 @@ MAINTAINER = "iotah <writeforever@foxmail.com>"
 
 TARGET_VENDOR = "-lichee"
 
-LOCALCONF_VERSION = "2"
+LOCALCONF_VERSION = "1"
 
 SUNIV_DEFAULT_DISTRO_DEFATURES = "largefile ptest multiarch"
 
